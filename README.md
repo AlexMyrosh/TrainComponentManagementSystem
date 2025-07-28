@@ -36,7 +36,7 @@ This is an ASP.NET Core REST API for managing train components. It supports full
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/train-component-management.git
+git clone https://github.com/yourusername/TrainComponentManagementSystem.git
 cd train-component-management
 ```
 
